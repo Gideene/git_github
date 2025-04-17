@@ -1,0 +1,5 @@
+Realizando práticas no Git e Github.
+- Criando repositório remoto.
+- clonando repositrio.
+- Fazendo alteração no repositório local.
+- enviando alteração para repositório remoto.
